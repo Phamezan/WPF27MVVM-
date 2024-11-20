@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|c:\\users\\bruger\\desktop\\dmu-2024-2025-exercise-materials\\pr27_wpfandmvvm2\\pr27_wpfandmvvm2\\wpfandmvvm2\\wpfandmvvm2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|solutionrelative:wpfandmvvm2\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|c:\\users\\bruger\\desktop\\dmu-2024-2025-exercise-materials\\pr27_wpfandmvvm2\\pr27_wpfandmvvm2\\wpfandmvvm2\\wpfandmvvm2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|solutionrelative:wpfandmvvm2\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|c:\\users\\bruger\\desktop\\dmu-2024-2025-exercise-materials\\pr27_wpfandmvvm2\\pr27_wpfandmvvm2\\wpfandmvvm2\\wpfandmvvm2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|solutionrelative:wpfandmvvm2\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|c:\\users\\bruger\\desktop\\dmu-2024-2025-exercise-materials\\pr27_wpfandmvvm2\\pr27_wpfandmvvm2\\wpfandmvvm2\\wpfandmvvm2\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3615850D-E419-49ED-9385-B8E4838395DB}|WPFAndMVVM2\\WPFAndMVVM2.csproj|solutionrelative:wpfandmvvm2\\viewmodels\\personviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "RelativeDocumentMoniker": "WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "ToolTip": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "RelativeToolTip": "WPFAndMVVM2\\ViewModels\\PersonViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:09:30.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPFAndMVVM2\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPFAndMVVM2\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:06:59.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPFAndMVVM2\\Views\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "WPFAndMVVM2\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-16T23:07:00.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\bruger\\Desktop\\dmu-2024-2025-exercise-materials\\Pr27_WPFAndMVVM2\\Pr27_WPFAndMVVM2\\WPFAndMVVM2\\WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "WPFAndMVVM2\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:07:00.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
